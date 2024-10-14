@@ -1,0 +1,115 @@
+.odd{
+    color:red;
+}
+.eve{
+    color:green;
+}
+.eee{
+    color:red;
+}
+.xxx{
+    font-size: 30px;
+}
+.block1{
+    color:red;
+}
+.block2{
+    color:green;
+}
+.block3{
+    color:blue;
+}
+.d1{
+    color:red;
+}
+.d2{
+    color:green;
+}
+.kkk, .zzz, .ggg{
+    text-align: center;
+    font-family: Arial;
+}
+.kkk{
+    font-size: 20px;
+}
+.zzz{
+    font-size: 30px;
+}
+.ggg{
+    font-size: 35px;
+}
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+.eue i{
+    color: red;
+}
+.eue{
+    color: green;
+}
+.ekk .bbb {
+	color: red;
+}
+.ekk h2 {
+	color: red;
+}
+.ekk h2.bbb {
+	color: red;
+}
+.ekk h3.bbb {
+	color: red;
+}
+.ekk p.bbb {
+	color: red;
+}
+.ekk .kak {
+	color: red;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.edde {
+    font-size: 90px;
+}
+.pii {
+    color: red;
+}
+.olk {
+    text-align: center;
+}
+#elem1 {
+    color: red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color:blue;
+}
+#block {
+	color: red;
+	font-family: Times New Roman;
+}
+.text {
+	font-size: 50px;
+}
+#elem h2 {
+    color: green;
+}
+#elemen .tex{
+    text-align: center;
+    font-size: 60px;
+
+}

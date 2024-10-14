@@ -1,0 +1,28 @@
+.under{
+    text-decoration: underline;
+}
+.over{
+    color:red;
+    text-decoration: overline;
+}
+.through{
+    color:green;
+    text-decoration: line-through;
+}
+.no1{
+    font: 13px "Times New Roman";
+    line-height: 20px;
+}
+.no2{
+    font: bold Arial 40px;
+    width: 300px;
+	color: red;
+}
+.no3{
+    font: bold italic Arial 40px;
+	text-indent: 50px;
+	line-height: 60px;
+}
+a{
+    text-decoration: none;
+}

@@ -50,7 +50,7 @@ h3.header{
 .eue{
     color: green;
 }
-.ekk .bbb {
+.ekk.bbb {
 	color: red;
 }
 .ekk h2 {
@@ -65,7 +65,7 @@ h3.header{
 .ekk p.bbb {
 	color: red;
 }
-.ekk .kak {
+.ekk.kak {
 	color: red;
 }
 .success {
@@ -108,8 +108,35 @@ h3.header{
 #elem h2 {
     color: green;
 }
-#elemen .tex{
+#elemen.tex{
     text-align: center;
     font-size: 60px;
 
+}
+#element.textt{
+    text-align: left;
+    font-size: 40px;
+}
+#elemenn li.texx{
+    text-align: center;
+    color:red;
+}
+.ike.zkr.ckr{
+    color:green;
+    font-size: 40px;
+}
+.bek.zak {
+	color: red;
+    font-size: 50px;
+    text-align: center;
+}
+h2.bin.zin {
+	color: green;
+    font-size: 50px;
+}
+#ell p.baz {
+	color: red;
+}
+h2#elemmm p.bal {
+	color: red;
 }

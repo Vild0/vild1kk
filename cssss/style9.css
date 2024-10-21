@@ -1,0 +1,33 @@
+h1.zzz{
+    color: red;
+}
+h2 .bbb{
+    color:green;
+}
+.kkk{
+    color:red;
+}
+.eee{
+    color:purple;
+}
+.kkk.eee{
+    color: blue;
+    font-size: 40px;
+}
+.eee .ziz{
+    color:aqua;
+}
+.eue.lll.mmm{
+    color:brown;
+}
+.eue.lll .mmm {
+	color: green;
+    font-size: 40px;
+}
+.eue .lll .mmm {
+	color: red;
+}
+#elem .bbb{
+    color:blue;
+    font-size: 40px;
+}
